@@ -2,6 +2,10 @@
 
 This assignment was completed for the fulfillment of the Deep Learning Course [ CS F425 ] offered by BITS Pilani, Pilani Campus under the guidance of Prof. Kamlesh Tiwari ( www.ktiwari.in )
 
+## Objective
+To develop a system that can reliably match images of a person taken at two different ages. 
+
+**Part-1 [Data Annotation]**
 ## Data Collection
 - **Total images collected = 864**
 * **Actors/Actress List**
@@ -40,6 +44,7 @@ This assignment was completed for the fulfillment of the Deep Learning Course [ 
   e.	Pehchaan-59  
   f.	Ramaiya vastavaiya-67  
 
+**Part-2 [ System Development ]**
 ## SIFT using Open cv2 library)
 ![sift_result](https://user-images.githubusercontent.com/66863370/167271556-d7b3163c-61bb-43e3-9d41-03018af74663.png)
 
